@@ -11,6 +11,3 @@ fs.readdir(dirPath, (error, files) => {
 console.log(`File name is ${file}`)
    })
 })
-
-
-
