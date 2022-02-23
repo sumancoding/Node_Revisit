@@ -1,0 +1,1 @@
+THis is the basic file createdand file name is apple.txt
